@@ -1,4 +1,0 @@
-file 'file:/home/janripken/Engineering Informatics/Github/Repositorys/cseanimated/media/videos/vidbegin/1440p60/partial_movie_files/vidbegin/00000.mp4'
-file 'file:/home/janripken/Engineering Informatics/Github/Repositorys/cseanimated/media/videos/vidbegin/1440p60/partial_movie_files/vidbegin/00001.mp4'
-file 'file:/home/janripken/Engineering Informatics/Github/Repositorys/cseanimated/media/videos/vidbegin/1440p60/partial_movie_files/vidbegin/00002.mp4'
-file 'file:/home/janripken/Engineering Informatics/Github/Repositorys/cseanimated/media/videos/vidbegin/1440p60/partial_movie_files/vidbegin/00003.mp4'
