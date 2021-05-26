@@ -1,4 +1,4 @@
-from manimlib.imports import *
+from manim import *
 import numpy as np
 
 
