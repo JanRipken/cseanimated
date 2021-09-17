@@ -1,4 +1,4 @@
-from manimlib.imports import *
+from manim import *
 
 
 # Base class for all merge sort scenes, with support for a basic merge viz, and multi-level merge viz.
